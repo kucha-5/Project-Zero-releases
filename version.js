@@ -1,12 +1,12 @@
 {
   "gameName": "Project Zero",
-  "latestVersion": "49.18.6",
+  "latestVersion": "49.18.7",
   "launcherVersion": "1.0.0",
   "minimumLauncherVersion": "1.0.0",
 
   "releaseDate": "2026-07-21",
 
-  "downloadUrl": "https://github.com/kucha-5/Project-Zero-releases/releases/download/49.18.6/ProjectZero_V49.18.6.zip",
+  "downloadUrl": "https://github.com/kucha-5/Project-Zero-releases/releases/download/49.18.7/ProjectZero_V49.18.7.zip",
 
   "updateSize": "11.2 MB",
   "forceUpdate": false,
